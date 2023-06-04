@@ -1,4 +1,5 @@
-# ENfinity
+# ENfinity - achine Learning Framework for EN Switching Model Exploration and
+Development.
 
 *	GUI – Custom Front end to provide user interface to upload or collect data
 *	Explorer Module – Provides Custom GUI to perform data cleansing, selecting (mining)
